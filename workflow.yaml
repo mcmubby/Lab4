@@ -1,0 +1,10 @@
+##PROBLEM
+#Given an array arr[] of size N which contains the marks of a student
+#in N subjects, the task is to calculate the CGPA and the CGPA percentage
+#of the student. 
+
+#Ask user for number of subject to determine array size
+#Ask user for the score of each subject
+#Validate user input
+#Pass input to array
+#Manipulate input and print result
